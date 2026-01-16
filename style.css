@@ -1,0 +1,31 @@
+
+h1 {
+    text-align: center;
+    font-style: oblique;
+    color: #000;
+    text-shadow:0 0 3px #23241f;
+}
+h{
+    text-transform: uppercase;
+}
+.highlight{
+    letter-spacing: 10px;
+}
+
+body{
+
+    background-image: url(https://assets.cdn.filesafe.space/fUxvYIXbd4cOJg2o4anf/media/6507c82ea8ce703d1619db1d.jpeg); 
+    font: size 24px;;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Arial;
+
+}
+    
+img{
+
+    border-radius: 60px;
+    
+}
+
